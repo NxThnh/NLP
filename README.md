@@ -36,7 +36,7 @@ Dự án có thể áp dụng cho các bài toán như phân loại văn bản, 
 
 1. Clone hoặc tải repo về máy:
    ```bash
-   git clone https://github.com/ten-ban/NLP-project.git
+   git clone https://github.com/NxThnh/NLP-project.git
    cd NLP-project
    ```
 
